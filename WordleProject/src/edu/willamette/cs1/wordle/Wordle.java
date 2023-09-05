@@ -11,7 +11,7 @@ import java.util.Date; //for some animation!!
  * BE SURE TO UPDATE THIS COMMENT WHEN YOU COMPLETE THE CODE.
 */
 
-
+//
 public class Wordle{
 	/* Private instance variables */
     private WordleGWindow gw;
